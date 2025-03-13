@@ -1,0 +1,6 @@
+#! /bin/bash
+echo "Display basic system information"
+echo "Current User: $(whoami)"
+echo "Current Directory: $(pwd)"
+echo "Today's Date: $(date)"
+echo "Calendar: $(cal)"
