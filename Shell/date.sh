@@ -1,0 +1,1 @@
+echo "Hello DevOps! Today's date and time is: $(date)"
